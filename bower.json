@@ -1,0 +1,13 @@
+{
+  "name": "purescript-jsonrpc2-client",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-jsonrpc2": "matthewleon/purescript-jsonrpc2",
+    "purescript-affjax": "^5.0.0"
+  }
+}

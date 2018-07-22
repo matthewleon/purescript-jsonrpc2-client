@@ -8,6 +8,7 @@
   ],
   "dependencies": {
     "purescript-jsonrpc2": "matthewleon/purescript-jsonrpc2",
-    "purescript-affjax": "^5.0.0"
+    "purescript-affjax": "^6.0.0",
+    "purescript-avar": "^3.0.0"
   }
 }
